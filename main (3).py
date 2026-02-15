@@ -7,3 +7,6 @@ def factorial(n):
 number=int(input("enter a value:"))
 fact=factorial(number)
 print("the factorial of number","is",fact)
+
+
+# TEST COMMIT
